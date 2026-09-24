@@ -8,7 +8,7 @@ that make them usable. I'm especially interested in reinforcement learning, NLP 
 
 ---
 
-### 🚀 Featured projects
+###  Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -20,7 +20,7 @@ that make them usable. I'm especially interested in reinforcement learning, NLP 
 
 ---
 
-### 🛠️ Tech stack
+###  Tech stack
 
 **AI & data**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -40,7 +40,7 @@ that make them usable. I'm especially interested in reinforcement learning, NLP 
 
 ---
 
-### 🎯 Currently
+###  Currently
 
 - Studying human-centred AI: how to make ML systems useful, understandable and trustworthy for the people who use them
 - Building projects with LLMs, NLP and reinforcement learning
