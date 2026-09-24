@@ -1,6 +1,6 @@
 # Hi, I'm Assim Ayoub 👋
 
-**Arts et Métiers (ENSAM) Engineer · Data Scientist · ML / NLP / LLMs · Full-Stack AI**<br>
+**Arts et Métiers Engineer · Data Scientist · ML / NLP / LLMs · Full-Stack AI**<br>
 Master's student in **Human-Centred AI (HCAI)** at **Université de Lorraine**
 
 I build machine-learning systems end to end: from the model and the experiments to the code, tests and interface
