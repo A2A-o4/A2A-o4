@@ -12,6 +12,7 @@ that make them usable. I'm especially interested in reinforcement learning, NLP 
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**Customer Churn Prediction**](https://github.com/A2A-o4/customer-churn-prediction) | End-to-end churn model on the Telco dataset: EDA, feature engineering, Logistic Regression / Random Forest / XGBoost with stratified CV. **AUC 0.85, 80% of churners detected**; targeting the top 20% riskiest customers captures **52% of churners** (2.6× lift). Churn drivers and retention recommendations. | Python · scikit-learn · XGBoost · Pandas |
 | [**Smart Traffic Signal Control**](https://github.com/A2A-o4/Smart-Traffic-Signal-Coordination-with-Agent-Deep-RL) | Deep Q-learning agent that runs the traffic lights of a simulated intersection. **Cuts vehicle delay by ~30%** vs. the best fixed-time plan on unseen traffic. Tested, reproducible, pretrained model included. | Python · PyTorch · SUMO |
 | [**RL Trading Agents**](https://github.com/A2A-o4/RL_Trading_Finance) | Custom Gymnasium trading environments and five RL agents (Recurrent PPO, A2C-LSTM, DQN, SAC) trained on AAPL with technical indicators. | Python · Stable-Baselines3 · Gymnasium |
 | [**Fake News Detector**](https://github.com/A2A-o4/fake-news-detector) | Text classifier (TF-IDF + logistic regression) with a train/predict CLI and tests. | Python · scikit-learn |
