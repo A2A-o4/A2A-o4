@@ -1,4 +1,4 @@
-# Hi, I'm Assim Ayoub 👋
+# Hi, I'm Assim Ayoub :)
 
 **Arts et Métiers Engineer · Data Scientist · ML / NLP / LLMs · Full-Stack AI**<br>
 Master's student in **Human-Centred AI (HCAI)** at **Université de Lorraine**
